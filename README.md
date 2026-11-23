@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch, github, linux, and windows" />
+  <img src="https://skillicons.dev/icons?i=arch,github,linux,windows" />
 </p>
 
 <hr>
