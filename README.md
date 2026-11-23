@@ -1,8 +1,10 @@
 ## Hi there 👋
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{WilliamCulhane}/count.svg" alt="Visitor's Count" />
+
+<div align="center">
+  <p>Profile Visitors</p>
+  <img src="https://komarev.com/ghpvc/?username=WilliamCulhane&style=for-the-badge&color=blue" alt="Profile Visitors" />
 </div>
+
 
 <!--
 **WilliamCulhane/WilliamCulhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
