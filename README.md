@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   <p>Profile Visitors</p>
   <img src="https://komarev.com/ghpvc/?username=WilliamCulhane&style=for-the-badge&color=blue" alt="Profile Visitors" />
@@ -11,6 +9,18 @@
 
 ## Aspiring Cybersecurity Professional | USAF Active Duty 2A6X1 | Hands-On Projects | Developing Higher Education and Skills in Information and Enterprise Security
 
+<br>
+
+<div align="center">
+  <a href="williambculhane@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/william-culhane-612973451/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
 <!--
 **WilliamCulhane/WilliamCulhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
