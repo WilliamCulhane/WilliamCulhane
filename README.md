@@ -23,7 +23,7 @@
   </a>
 </div>
 
-## 🛠️ Languages and Tools
+## $\color{BlueGreen}{\textsf{🛠️ Languages and Tools}}$
 
 <br>
 
