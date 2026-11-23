@@ -24,6 +24,15 @@
 </div>
 
 <hr>
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arch, github, linux, and windows" />
+</p>
+
+<hr>
 <!--
 **WilliamCulhane/WilliamCulhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
