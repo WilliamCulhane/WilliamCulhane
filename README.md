@@ -6,8 +6,10 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+William+Culhane!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hello+There!;+I'm+William+Culhane!;" />
 </h1>
+
+## Aspiring Cybersecurity Professional | USAF Active Duty 2A6X1 | Hands-On Projects | Developing Higher Education and Skills in Information and Enterprise Security
 
 <!--
 **WilliamCulhane/WilliamCulhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
