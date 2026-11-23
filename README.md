@@ -7,7 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=WilliamCulhane&style=for-the-badge&color=blue" alt="Profile Visitors" />
 </div>
 
-## Aspiring Cybersecurity Professional | USAF Active Duty 2A6X1 | Hands-On Projects | Developing Higher Education and Skills in Information and Enterprise Security
+## Aspiring Cybersecurity Professional
+## USAF Active Duty 2A6X1 | Hands-On Projects
+## Developing Higher Education and Skills in Information and Enterprise Security
 - 🎓 Working to achieve my B.S. in Cybersecurity.
 - 🎖 Active duty aerospace propulsion maintainer.
 - 🛠 Building and experimenting with my home-lab. 
