@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=WilliamCulhane&style=for-the-badge&color=blue" alt="Profile Visitors" />
 </div>
 
-## Aspiring Cybersecurity Professional | Developing Security Skills and Hands-On Projects
+## Aspiring Cybersecurity Professional | Developing Skills and Hands-On Projects
 
 - 🎓 Working to achieve my B.S. in Cybersecurity.
 - 🎖 Active duty aerospace propulsion maintainer.
